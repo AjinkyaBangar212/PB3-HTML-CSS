@@ -1,0 +1,24 @@
+
+
+.pa{
+	 border: 5px solid red;
+	padding: 118px 138px 75px 284px;
+}
+
+
+.ma{
+	 border: 5px solid black;
+	margin: 50px 18px 75px 84px;
+}
+
+.rel {
+	position: fixed;
+	border : 8px dotted green;
+	
+}
+
+
+
+.pfix {
+	position: fixed;
+}
